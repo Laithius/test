@@ -1,0 +1,2 @@
+The BackEnd is tested with POSTMAN and all the basics CRUD functions are working correctly,
+to run the server, type in the terminal: node index.js
